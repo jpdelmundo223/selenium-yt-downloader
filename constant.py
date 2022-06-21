@@ -1,0 +1,1 @@
+DRIVER_PATH = 'C:/Users/john.delmundo/Desktop/automations/yt-playlist-downloader/webdriver/chromedriver.exe'
